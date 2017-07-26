@@ -1,0 +1,7 @@
+[ 16][            main] Start.
+[ 29][            main] other network get_token.
+[ 13][       send_data] other network send_data.
+[  9][      write_data] other entity write_data.
+[ 41][            main] other entity read_data.
+[ 45][            main] other os get_rtc.
+[ 47][            main] Terminate.
